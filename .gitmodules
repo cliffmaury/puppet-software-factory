@@ -1,0 +1,12 @@
+[submodule "puppet-maven"]
+	path = puppet-maven
+	url = git://github.com/cliffmaury/puppet-maven.git
+[submodule "puppet-jenkins"]
+	path = puppet-jenkins
+	url = git://github.com/cliffmaury/puppet-jenkins.git
+[submodule "puppet-nexus"]
+	path = puppet-nexus
+	url = git://github.com/cliffmaury/puppet-nexus.git
+[submodule "puppet-sonar"]
+	path = puppet-sonar
+	url = git://github.com/cliffmaury/puppet-sonar.git
